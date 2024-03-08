@@ -4010,3 +4010,7 @@ body.is-ie #wrapper>section>.content>section {
 	}
 
 }
+
+.hidden-feature {
+	display: none; 
+}
